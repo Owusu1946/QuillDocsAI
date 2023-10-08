@@ -96,7 +96,7 @@ export const appRouter = router({
           line_items: [
             {
               price: PLANS.find(
-                (plan) => plan.name === 'Pro'
+                (plan) => plan.name === 'Pron Plan'
               )?.price.priceIds.test,
               quantity: 1,
             },
