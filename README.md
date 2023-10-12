@@ -1,4 +1,4 @@
-# Quill - A Modern Fullstack SaaS-Platform
+# Quill - A Modern Fullstack SaaS-Platform that allows you to chat with your pdf documents
 
 Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 
@@ -22,14 +22,13 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 - 🌲 Pinecone as our Vector Storage
 - 📊 Prisma as our ORM
 - 🔤 100% written in TypeScript
-- 🎁 ...much more
 
 ## Getting started
 
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/quill.git
+  git clone https://github.com/Owusu1946/QuillDocsAI.git
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
@@ -37,7 +36,7 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 ## Acknowledgements
 
-- [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
+- [Kinde Auth](https://kinde.com) for making this project possiblea and Josh Chan Repository was forked from him and improved upon
 
 ## License
 
