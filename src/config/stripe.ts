@@ -13,14 +13,14 @@ export const PLANS = [
     },
   },
   {
-    name: 'Pro Plan',
+    name: 'Pro',
     slug: 'pro',
     quota: 50,
     pagesPerPdf: 25,
     price: {
-      amount: 14,
+      amount: 2000,
       priceIds: {
-        test: 'price_1Ny3xXJdg1FDl3shAG5hh771',
+        test: 'price_1Nw5G8SEfm1o2VyDt7DTI11m',
         production: '',
       },
     },
